@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Harshit Tiwari
 
-### Frontend Developer from India 🇮🇳
+### Frontend Developer from India
 
 Building modern, responsive and user-friendly web applications with React.
 
@@ -17,7 +17,7 @@ Building modern, responsive and user-friendly web applications with React.
 - 💻 Frontend Developer passionate about creating clean UI/UX
 - 🌱 Currently learning TypeScript & advanced React
 - 🚀 Building real-world React projects
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **ht8489680@gmail.com**
 
 ---
 
