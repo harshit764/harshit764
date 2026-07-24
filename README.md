@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/banner.gif" width="100%" />
 # 💫 About Me:
 👋 Hi, I'm Harshit Tiwari<br><br>Frontend Developer passionate about building modern, responsive web applications.<br><br>Languages : HTML5, CSS3, JavaScript, TypeScript<br>Frameworks :  React.js, Tailwind CSS<br>Tools : Git, GitHub<br>
 
