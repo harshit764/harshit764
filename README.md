@@ -1,4 +1,8 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:2563EB&height=220&section=header&text=Harshit%20Tiwari&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%87%AE%F0%9F%87%B3;React.js+Developer+%E2%9A%9B%EF%B8%8F;Building+Modern+Web+Applications;Clean+UI%2FUX+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<br />
+### 👋 Hi, I'm Harshit Tiwari
+### ⚡ Frontend Developer from India 🇮🇳
 ## 👨‍💻 About Me
 
 - 💻 Frontend Developer passionate about clean and interactive user interfaces
