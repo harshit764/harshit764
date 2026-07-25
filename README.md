@@ -141,16 +141,6 @@ Firebase                   ████████████░░░░░�
 
 ---
 
-## 🎯 2025 Goals
-
-- Build and deploy more production-ready React applications
-- Become confident with TypeScript
-- Improve frontend architecture and performance
-- Contribute to open-source projects
-- Create accessible and high-quality user experiences
-- Keep learning and growing as a developer
-
----
 
 ## 📫 Let's Connect
 
