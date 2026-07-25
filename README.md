@@ -178,5 +178,3 @@ Firebase                   ████████████░░░░░�
 
 </div>
 ```
-
-Replace the commented LinkedIn section with your real LinkedIn profile link when available.
