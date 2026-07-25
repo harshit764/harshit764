@@ -85,16 +85,7 @@ Firebase                   ████████████░░░░░�
 
 ---
 
-## 🌱 Currently Learning
 
-- TypeScript
-- Advanced React patterns
-- React performance optimization
-- Component architecture
-- Frontend testing
-- Clean code and scalable project structures
-
----
 
 ## 📊 GitHub Statistics
 
