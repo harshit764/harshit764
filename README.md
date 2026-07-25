@@ -151,17 +151,8 @@ Firebase                   ████████████░░░░░�
 
 <div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=harshit764&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  alt="Harshit's GitHub statistics"
-/>
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit764&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Harshit's most used languages"
-/>
+
 
 </div>
 
@@ -182,17 +173,7 @@ Firebase                   ████████████░░░░░�
 ---
 
 
-## 📫 Let's Connect
 
-<div align="center">
-
-<a href="mailto:ht8489680@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ht8489680%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/harshit764">
-  <img src="https://img.shields.io/badge/GitHub-harshit764-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <!-- Add your LinkedIn link below -->
 <!--
@@ -209,7 +190,7 @@ Firebase                   ████████████░░░░░�
 
 ### 💙 Thanks for visiting my profile!
 
-**Keep coding. Keep building. Keep learning.**
+
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
