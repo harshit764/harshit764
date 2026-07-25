@@ -1,52 +1,131 @@
+Got it, Harshit 👍 Here is a cleaner and more professional GitHub profile README using your username: **`harshit764`**.
 
+Create a public repository named exactly:
 
-### 🔥 Backend & Database
+```text
+harshit764
+```
+
+Then add this content to its `README.md` file.
+
+```md
+<div align="center">
+
+# Hi, I'm Harshit Tiwari 👋
+
+### Frontend Developer from India 🇮🇳
+
+I build modern, responsive and user-friendly web applications using React.js.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  <a href="mailto:ht8489680@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/harshit764">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=harshit764&label=Profile%20Views&color=2563eb&style=flat-square" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Frontend Developer passionate about clean and interactive user interfaces
+- ⚛️ Experienced in building web applications with React.js
+- 🌱 Currently learning TypeScript and advanced React concepts
+- 🚀 Building real-world projects to improve my development skills
+- 📱 Focused on responsive design and great user experience
+- 🔥 Exploring Firebase for backend services and authentication
+- 📫 Email: **[ht8489680@gmail.com](mailto:ht8489680@gmail.com)**
+
+---
+
+## 🧠 My Focus
+
+```text
+Frontend Development       ████████████████████░  95%
+React.js                   ██████████████████░░░  90%
+Responsive Design          ██████████████████░░░  90%
+JavaScript                 █████████████████░░░░  85%
+TypeScript                 ████████████░░░░░░░░░  60%
+Firebase                   ████████████░░░░░░░░░  60%
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-### ☁️ Deployment
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=netlify,vercel" alt="Deployment platforms" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### 🧰 Tools & Design
+### Backend and Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Development tools" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
+### Deployment
+
 <p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 🚀 What I Build
 
-- 🔷 TypeScript for scalable frontend applications
-- ⚛️ Advanced React patterns and component architecture
-- 🚀 React performance optimization
-- 🧪 Testing modern React applications
-- 🏗️ Better frontend project structure and clean code practices
+- Responsive React applications
+- Reusable and scalable UI components
+- Modern dashboards and web interfaces
+- Firebase-powered applications
+- Form-based applications with validation
+- Mobile-first and user-friendly websites
+- Clean and maintainable frontend code
 
 ---
 
-## 🌟 Development Principles
+## 🌱 Currently Learning
 
-- 🎨 Clean and consistent UI design
-- 📱 Mobile-first responsive development
-- ♿ Accessible user experiences
-- ⚡ Fast and optimized applications
-- 🧩 Reusable and maintainable components
-- 🔒 Secure and reliable application development
+- TypeScript
+- Advanced React patterns
+- React performance optimization
+- Component architecture
+- Frontend testing
+- Clean code and scalable project structures
 
 ---
 
@@ -54,78 +133,76 @@
 
 <div align="center">
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub statistics"
-  />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=harshit764&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  alt="Harshit's GitHub statistics"
+/>
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most used languages"
-  />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit764&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Harshit's most used languages"
+/>
 
 </div>
+
+<br />
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-  />
+
+<img
+  src="https://streak-stats.demolab.com?user=harshit764&theme=tokyonight&hide_border=true"
+  alt="Harshit's GitHub streak"
+/>
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub activity graph"
-    width="95%"
-  />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=harshit764&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+  alt="Harshit's contribution graph"
+/>
+
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 🎯 2025 Goals
 
-> Add your best projects here and replace the example content with your real projects.
-
-| Project | Description | Technologies |
-|---|---|---|
-| [Project Name](https://github.com/YOUR_GITHUB_USERNAME/project-repository) | A modern and responsive web application | React, JavaScript, CSS |
-| [Project Name](https://github.com/YOUR_GITHUB_USERNAME/project-repository) | A user-friendly application with clean UI/UX | React, Tailwind CSS, Firebase |
-| [Project Name](https://github.com/YOUR_GITHUB_USERNAME/project-repository) | A real-world frontend project | React, Redux, Vite |
-
----
-
-## 💡 My Goals
-
-- Build production-ready React applications
-- Improve my TypeScript and advanced React skills
+- Build and deploy more production-ready React applications
+- Become confident with TypeScript
+- Improve frontend architecture and performance
 - Contribute to open-source projects
-- Learn modern frontend testing tools
-- Create beautiful and accessible digital experiences
+- Create accessible and high-quality user experiences
+- Keep learning and growing as a developer
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
 <a href="mailto:ht8489680@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-ht8489680%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://github.com/harshit764">
+  <img src="https://img.shields.io/badge/GitHub-harshit764-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<!-- Add your LinkedIn link below -->
+<!--
+<a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+-->
 
 </div>
 
@@ -135,29 +212,14 @@
 
 ### 💙 Thanks for visiting my profile!
 
-<img
-  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2563EB&style=flat"
-  alt="Profile views"
-/>
-
-<br />
+**Keep coding. Keep building. Keep learning.**
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0f172a&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
   width="100%"
 />
 
 </div>
 ```
 
-### Important changes before adding it
-
-Replace these values:
-
-```text
-YOUR_GITHUB_USERNAME
-YOUR_LINKEDIN_USERNAME
-YOUR_PORTFOLIO_URL
-```
-
-Also update the **Featured Projects** section with your actual project names, GitHub links, live demo links and technologies. Create a public repository with the exact same name as your GitHub username, then add this content as its `README.md`.
+Replace the commented LinkedIn section with your real LinkedIn profile link when available.
