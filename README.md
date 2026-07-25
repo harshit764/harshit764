@@ -1,49 +1,4 @@
 
-## 👋 About Me
-
-- 💻 Frontend Developer passionate about creating clean and engaging UI/UX
-- ⚛️ Specialized in building modern applications with React.js
-- 🌱 Currently learning TypeScript and advanced React concepts
-- 🚀 Building real-world projects to improve my development skills
-- 📱 Focused on responsive, accessible and user-friendly interfaces
-- 🔧 Interested in performance optimization and scalable frontend architecture
-- 📫 Reach me at **[ht8489680@gmail.com](mailto:ht8489680@gmail.com)**
-
----
-
-## 🚀 What I Do
-
-```text
-✔ Build responsive web applications
-✔ Create reusable React components
-✔ Develop clean and intuitive user interfaces
-✔ Integrate APIs and backend services
-✔ Manage application state efficiently
-✔ Build forms with validation
-✔ Deploy applications to modern hosting platforms
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp" alt="Languages" />
-</p>
-
-### ⚛️ Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="Frontend technologies" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
-</p>
 
 ### 🔥 Backend & Database
 
