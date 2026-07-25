@@ -85,6 +85,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
+<hr>
 
 ### Frontend
 
@@ -96,19 +97,19 @@
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
-
+<hr>
 ### Backend and Database
 
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+</p><hr>
 
 ### Deployment
 
 <p>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+</p><hr>
 
 ### Tools
 
@@ -118,21 +119,7 @@
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
-</p>
-
----
-
-## 🚀 What I Build
-
-- Responsive React applications
-- Reusable and scalable UI components
-- Modern dashboards and web interfaces
-- Firebase-powered applications
-- Form-based applications with validation
-- Mobile-first and user-friendly websites
-- Clean and maintainable frontend code
-
----
+</p><hr>
 
 
 
