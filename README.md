@@ -54,7 +54,6 @@
 <a href="mailto:ht8489680@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<hr>
 <br>
 <br>
 </div>
@@ -69,18 +68,8 @@
 - 🔥 Exploring Firebase for backend services and authentication
 - 📫 Email: **[ht8489680@gmail.com](mailto:ht8489680@gmail.com)**
 
----
 
-## 🧠 My Focus
 
-```text
-Frontend Development       ████████████████████░  95%
-React.js                   ██████████████████░░░  90%
-Responsive Design          ██████████████████░░░  90%
-JavaScript                 █████████████████░░░░  85%
-TypeScript                 ████████████░░░░░░░░░  60%
-Firebase                   ████████████░░░░░░░░░  60%
-```
 
 ---
 
