@@ -1,36 +1,3 @@
-Got it, Harshit 👍 Here is a cleaner and more professional GitHub profile README using your username: **`harshit764`**.
-
-Create a public repository named exactly:
-
-```text
-harshit764
-```
-
-Then add this content to its `README.md` file.
-
-```md
-<div align="center">
-
-# Hi, I'm Harshit Tiwari 👋
-
-### Frontend Developer from India 🇮🇳
-
-I build modern, responsive and user-friendly web applications using React.js.
-
-<p>
-  <a href="mailto:ht8489680@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/harshit764">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=harshit764&label=Profile%20Views&color=2563eb&style=flat-square" />
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
