@@ -43,6 +43,8 @@
   I enjoy transforming ideas into fast, accessible and visually appealing digital experiences.
 </p>
 
+## 📫 Let's Connect
+
 <br />
 
 <a href="https://www.linkedin.com/in/harshit-tiwari-7a3608318/">
@@ -54,7 +56,9 @@
 <a href="mailto:ht8489680@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+<hr>
+<br>
+<br>
 </div>
 
 ## 👨‍💻 About Me
