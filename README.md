@@ -137,10 +137,9 @@
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=harshit764&theme=tokyonight&hide_border=true"
-  alt="Harshit's GitHub streak"
+  src="https://github-readme-streak-stats-eight.vercel.app?user=harshit764&theme=tokyonight&hide_border=true"
+  alt="Harshit's GitHub Streak"
 />
-
 </div>
 
 ---
